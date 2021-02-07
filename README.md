@@ -1,4 +1,4 @@
-# Getting Started with Guild Chat
+# Guild Chat
 
 This is the front end component of the Guild Chat app. You can find it live at https://keegan-guild-chat-fe.herokuapp.com/. You can view the back end repo [here](https://github.com/KeeganCorrigan/chat_app_backend), and you can find the backend deployed live at https://keegan-guild-chat-be.herokuapp.com/ (please see the github repo for additional instructions!).
 
