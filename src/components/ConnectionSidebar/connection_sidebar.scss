@@ -1,0 +1,54 @@
+// IMPORTS
+@import './src/stylesheets/main.scss';
+
+.connection-sidebar {
+  height:90%;
+  padding: 2rem;
+  background-color: $guild-chat-green;
+  border: 1px solid white;
+  border-radius: .5rem;
+
+  &__heading {
+    text-align: center;
+    font: 5rem $heading-font;
+    padding: 1rem;
+    margin: 1rem;
+    color: white;
+  }
+
+  &__login-heading {
+    color: white;
+    font-family: $heading-font;
+  }
+
+  &__login-name {
+    color: $user-color
+  }
+
+  &__recipient-name {
+    color: $recipient-color
+  }
+
+  &__button-container {
+    justify-content: center;
+    align-items: center;
+  }
+  
+  &__button {
+    background-color: white;
+    border: 1px solid white;
+    border-radius: 50%;
+    height: 5rem;
+    width: 5rem;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    transition: transform ease-in-out .3s;
+
+    &:hover {
+      color: $warning-red;
+      border: $warning-red solid 1px;
+      transform: scale(1.05);
+    }
+  }
+}
