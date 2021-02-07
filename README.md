@@ -6,11 +6,11 @@ This chat app uses (socket.io-client)[https://www.npmjs.com/package/socket.io-cl
 
 ## Technologies used
 
-* [React][https://reactjs.org/]
-* [Font Awesome][https://www.npmjs.com/package/react-fontawesome]
-* [Material UI][https://material-ui.com/]
-* [Socket.io-client][https://www.npmjs.com/package/socket.io-client])
-* [Axios][https://www.npmjs.com/package/axios]
+* [React](https://reactjs.org/)
+* [Font Awesome](https://www.npmjs.com/package/react-fontawesome)
+* [Material UI](https://material-ui.com/)
+* [Socket.io-client](https://www.npmjs.com/package/socket.io-client)
+* [Axios](https://www.npmjs.com/package/axios)
 
 ## Getting Started Locally
 
@@ -31,7 +31,7 @@ In conjunction you will probably want to run the server locally, please visit [h
 
 ### The log in screen:
 
-![image](https://drive.google.com/file/d/1hpoaMpC4AeZSsslOyQRr2d08q1dKqe-B/view?usp=sharing)
+![image](https://github.com/KeeganCorrigan/chat_app_frontend/blob/main/content/images/logging%20in%20chat%20app.gif)
 
 ## Additional TODOs:
 
