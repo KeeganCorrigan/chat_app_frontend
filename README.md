@@ -25,6 +25,8 @@ In conjunction you will probably want to run the server locally, please visit [h
 
 ## App in action
 
+On production, you can login as the users `Àrtemis` and `Minerva` or create your own users (which is as simple as typing a name in the `Who are you?` field, if the user you are attempting to send messages to does not exist you will have to create that user as well by typing that corresponding name into the `Who are you?` field as well).
+
 ### Chatting with another user:
 
 ![image](https://github.com/KeeganCorrigan/chat_app_frontend/blob/main/content/images/chat%20app%20in%20action.gif)
@@ -34,6 +36,8 @@ In conjunction you will probably want to run the server locally, please visit [h
 ### The log in screen:
 
 ![image](https://github.com/KeeganCorrigan/chat_app_frontend/blob/main/content/images/logging%20in%20chat%20app.gif)
+
+**SPECIAL NOTE**: When typing in a new user name in the `Who are you?` field, a user will be created. So you do not have to use pre-existing/seeded users.
 
 ## Additional TODOs:
 
