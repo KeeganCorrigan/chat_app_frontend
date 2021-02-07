@@ -29,6 +29,8 @@ In conjunction you will probably want to run the server locally, please visit [h
 
 ![image](https://github.com/KeeganCorrigan/chat_app_frontend/blob/main/content/images/chat%20app%20in%20action.gif)
 
+**SPECIAL NOTE**: You can generate a random message by clicking the dice icon to the left of the message input field.
+
 ### The log in screen:
 
 ![image](https://github.com/KeeganCorrigan/chat_app_frontend/blob/main/content/images/logging%20in%20chat%20app.gif)
